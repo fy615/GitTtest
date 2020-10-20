@@ -2,3 +2,5 @@ first    flutter
 
 
 俄文瑞文
+
+add func1
