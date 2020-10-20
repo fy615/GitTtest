@@ -1,7 +1,6 @@
 嗡嗡嗡
 55
 web
-rr
 add fun2
 
 add fun3
