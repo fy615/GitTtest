@@ -1,8 +1,2 @@
-嗡嗡嗡
-
-add fun1
-
-add fun 2
-
-add fun3
+嗡嗡嗡add fun3
 {hlle}
